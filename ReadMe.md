@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Estudante de Engenharia de Software (3º semestre)<br>💻 Habilidades: Java (Spring Boot), Python, HTML, CSS, C<br>🚀 Apaixonado por Tecnologia e Desenvolvimento de Software<br>🛠️ Solucionador de Problemas e Aprendiz Contínuo<br>🤝 Colaboração: Projetos desafiadores e trabalho em equipe
+🎓 Estudante de Engenharia de Software (3º semestre)<br>💻 Habilidades: Java, Python, HTML, CSS, C<br>🚀 Apaixonado por Tecnologia e Desenvolvimento de Software<br>🛠️ Solucionador de Problemas e Aprendiz Contínuo<br>🤝 Colaboração: Projetos desafiadores e trabalho em equipe
 
 
 ## 🌐 Socials:
